@@ -1,0 +1,274 @@
+[
+  {
+    "name": "NTT DATA Services",
+    "platform": "greenhouse",
+    "id": {"board_token": "nttdatausa"},
+    "industry": "IT Services",
+    "dfw_presence": "Major office - Plano, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "West Monroe",
+    "platform": "greenhouse",
+    "id": {"board_token": "westmonroe4"},
+    "industry": "Consulting / Embedded Operations",
+    "dfw_presence": "No major DFW office confirmed - verify",
+    "confidence": "high"
+  },
+  {
+    "name": "Match Group",
+    "platform": "lever",
+    "id": {"slug": "matchgroup"},
+    "industry": "Enterprise Tech / Consumer",
+    "dfw_presence": "HQ - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Trinity Hunt Partners",
+    "platform": "lever",
+    "id": {"slug": "trinityhunt"},
+    "industry": "Private Equity",
+    "dfw_presence": "HQ - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Palantir Technologies",
+    "platform": "lever",
+    "id": {"slug": "palantir"},
+    "industry": "Enterprise Tech / AI / Data",
+    "dfw_presence": "No DFW office - non-DFW exception, pursue only if total comp clears $500K",
+    "confidence": "high"
+  },
+  {
+    "name": "Riveron",
+    "platform": "ashby",
+    "id": {"org": "riveron"},
+    "industry": "Business Performance Improvement / M&A Integration",
+    "dfw_presence": "HQ - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Fidelity Investments",
+    "platform": "workday",
+    "id": {"tenant": "fmr", "host": "wd1", "site": "FidelityCareers"},
+    "industry": "Financial Services / Wealth Management",
+    "dfw_presence": "Major campus - Westlake, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Comerica (now Fifth Third Bank)",
+    "platform": "workday",
+    "id": {"tenant": "fifththird", "host": "wd5", "site": "53careers"},
+    "industry": "Banking",
+    "dfw_presence": "HQ - Dallas, TX (pending Fifth Third acquisition, announced 2025 - verify current status)",
+    "confidence": "medium"
+  },
+  {
+    "name": "Texas Capital Bank",
+    "platform": "workday",
+    "id": {"tenant": "texascapitalbank", "host": "wd12", "site": "Careers"},
+    "industry": "Banking",
+    "dfw_presence": "HQ - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Capital One",
+    "platform": "workday",
+    "id": {"tenant": "capitalone", "host": "wd12", "site": "Capital_One"},
+    "industry": "Banking / Fintech",
+    "dfw_presence": "Major campus - Plano, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "USAA",
+    "platform": "workday",
+    "id": {"tenant": "usaa", "host": "wd1", "site": "USAAJOBSWD"},
+    "industry": "Insurance / Financial Services",
+    "dfw_presence": "Major campus - Plano, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Independent Financial (now SouthState Bank)",
+    "platform": "workday",
+    "id": {"tenant": "southstatebank", "host": "wd5", "site": "IFJobBoard"},
+    "industry": "Banking",
+    "dfw_presence": "HQ - McKinney, TX (merged into SouthState Bank - verify current status)",
+    "confidence": "medium"
+  },
+  {
+    "name": "McKesson",
+    "platform": "workday",
+    "id": {"tenant": "mckesson", "host": "wd3", "site": "External_Careers"},
+    "industry": "Healthcare / Distribution",
+    "dfw_presence": "HQ - Irving, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "CoStar Group",
+    "platform": "workday",
+    "id": {"tenant": "costar", "host": "wd1", "site": "CoStarCareers"},
+    "industry": "Enterprise Tech / Data",
+    "dfw_presence": "HQ - Richardson, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Sabre Corporation",
+    "platform": "workday",
+    "id": {"tenant": "sabre", "host": "wd1", "site": "SabreJobs"},
+    "industry": "Enterprise Tech / Travel",
+    "dfw_presence": "HQ - Southlake, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Copart",
+    "platform": "workday",
+    "id": {"tenant": "copart", "host": "wd12", "site": "Copart"},
+    "industry": "Enterprise Tech / Industrials",
+    "dfw_presence": "HQ - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Toyota Motor North America",
+    "platform": "workday",
+    "id": {"tenant": "toyota", "host": "wd503", "site": "TMNA"},
+    "industry": "Industrials / Auto",
+    "dfw_presence": "NA HQ - Plano, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Vistra Corp",
+    "platform": "workday",
+    "id": {"tenant": "vst", "host": "wd5", "site": "luminant_careers"},
+    "industry": "Energy / Infrastructure",
+    "dfw_presence": "HQ - Irving, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Kimberly-Clark",
+    "platform": "workday",
+    "id": {"tenant": "kimberlyclark", "host": "wd1", "site": "Global"},
+    "industry": "Consumer / Industrials",
+    "dfw_presence": "HQ - Irving, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "7-Eleven Inc.",
+    "platform": "workday",
+    "id": {"tenant": "7eleven", "host": "wd3", "site": "7eleven"},
+    "industry": "Business Services / Retail",
+    "dfw_presence": "US HQ - Irving, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Elevance Health",
+    "platform": "workday",
+    "id": {"tenant": "elevancehealth", "host": "wd1", "site": "ANT"},
+    "industry": "Healthcare / Insurance",
+    "dfw_presence": "National (remote-eligible)",
+    "confidence": "high"
+  },
+  {
+    "name": "HCA Healthcare",
+    "platform": "workday",
+    "id": {"tenant": "hcahealthcare", "host": "wd3", "site": "hcacareers"},
+    "industry": "Healthcare",
+    "dfw_presence": "National (Nashville HQ, some TX facilities)",
+    "confidence": "medium - site slug inferred, verify at runtime"
+  },
+  {
+    "name": "Wells Fargo",
+    "platform": "workday",
+    "id": {"tenant": "wf", "host": "wd1", "site": "WellsFargoJobs"},
+    "industry": "Banking",
+    "dfw_presence": "Major campus - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Bank of America",
+    "platform": "workday",
+    "id": {"tenant": "ghr", "host": "wd1", "site": "Lateral-US"},
+    "industry": "Banking",
+    "dfw_presence": "Major campus - Plano, TX (Legacy Drive)",
+    "confidence": "high"
+  },
+  {
+    "name": "Citigroup",
+    "platform": "workday",
+    "id": {"tenant": "citi", "host": "wd5", "site": "2"},
+    "industry": "Banking",
+    "dfw_presence": "Office - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Salesforce",
+    "platform": "workday",
+    "id": {"tenant": "salesforce", "host": "wd12", "site": "External_Career_Site"},
+    "industry": "Enterprise Tech / SaaS",
+    "dfw_presence": "Office - Dallas, TX (2300 N. Field St)",
+    "confidence": "high"
+  },
+  {
+    "name": "Globe Life",
+    "platform": "workday",
+    "id": {"tenant": "globelife", "host": "wd5", "site": "Globe-Life-Careers"},
+    "industry": "Insurance",
+    "dfw_presence": "HQ - McKinney, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Danaher Corporation",
+    "platform": "workday",
+    "id": {"tenant": "danaher", "host": "wd1", "site": "DanaherJobs"},
+    "industry": "Healthcare / Life Sciences / Industrials",
+    "dfw_presence": "National (structured GM-development pipeline)",
+    "confidence": "high"
+  },
+  {
+    "name": "Becton Dickinson",
+    "platform": "workday",
+    "id": {"tenant": "bdx", "host": "wd1", "site": "EXTERNAL_CAREER_SITE_USA"},
+    "industry": "Healthcare / Life Sciences",
+    "dfw_presence": "National (remote-eligible)",
+    "confidence": "high"
+  },
+  {
+    "name": "Caterpillar",
+    "platform": "workday",
+    "id": {"tenant": "cat", "host": "wd5", "site": "CaterpillarCareers"},
+    "industry": "Industrials",
+    "dfw_presence": "HQ - Irving, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Alvarez & Marsal",
+    "platform": "workday",
+    "id": {"tenant": "alvarezandmarsal", "host": "wd1", "site": "alvarezandmarsal"},
+    "industry": "Interim Management / Turnaround & Restructuring",
+    "dfw_presence": "Office - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "FTI Consulting",
+    "platform": "workday",
+    "id": {"tenant": "fticonsulting", "host": "wd108", "site": "FTIConsultingCareers"},
+    "industry": "Office of the CFO / Interim Management",
+    "dfw_presence": "Office - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Protiviti",
+    "platform": "workday",
+    "id": {"tenant": "roberthalf", "host": "wd1", "site": "ProtivitiExperiencedCareers"},
+    "industry": "Business Performance Improvement",
+    "dfw_presence": "Office - Dallas, TX",
+    "confidence": "high"
+  },
+  {
+    "name": "Guidehouse",
+    "platform": "workday",
+    "id": {"tenant": "guidehouse", "host": "wd1", "site": "External"},
+    "industry": "Transformation / Chief of Staff to CXO",
+    "dfw_presence": "Office - Dallas, TX",
+    "confidence": "high"
+  }
+]
